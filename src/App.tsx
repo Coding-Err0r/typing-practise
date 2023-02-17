@@ -21,7 +21,7 @@ const App: FC = () => {
         }}
       />
       <MacKeyBoard />
-      <h1 style={{ bottom: 0, position: "absolute" }}>
+      <h1 style={{ bottom: 0, position: "absolute",color: "#fff" }}>
         ©️{" "}
         <a
           href="https://rhine-one.vercel.app"
