@@ -11,7 +11,7 @@
   <h3 align="center">Typing Practise</h3>
 
   <p align="center">
-    <a href="">Typing Practise</a>
+    <a href="https://typing-practise.vercel.app/">Typing Practise</a>
     <br />
     <br />
   </p>
